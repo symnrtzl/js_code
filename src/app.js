@@ -1,4 +1,3 @@
-console.log("2.Hafta Ödevleri\n\n")
 console.log("1.JavaScript ile istediğiniz kadar sayı parametre gönderebileceğiniz bir fonksiyon yazınız. Bu fonksiyona gönderdiğiniz her sayı için çıktı olarak asal olup olmadığını yazınız. ")
 
 function findPrime(...numbers){
