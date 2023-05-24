@@ -1,4 +1,5 @@
-console.log("1.JavaScript ile istediğiniz kadar sayı parametre gönderebileceğiniz bir fonksiyon yazınız. Bu fonksiyona gönderdiğiniz her sayı için çıktı olarak asal olup olmadığını yazınız. ")
+console.log("----")
+console.log("1.JavaScript ile istediğiniz kadar sayı parametre gönderebileceğiniz bir fonksiyon yazınız. Bu fonksiyona gönderdiğiniz her sayı için çıktı olarak asal olup olmadığını yazınız.")
 
 function findPrime(...numbers){
     for(let i=0;i<numbers.length;i++){
